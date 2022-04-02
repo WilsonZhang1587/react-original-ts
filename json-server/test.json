@@ -1,0 +1,9 @@
+{
+  "test": {
+    "url": "/test",
+    "200": {
+      "status": true,
+      "reason": 123
+    }
+  }
+}
